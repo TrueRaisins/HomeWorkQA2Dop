@@ -1,5 +1,7 @@
+package Wrappers;
+
 public class Wrappers {
-    public static void main (String[] args){
+    protected static void main (String[] args){
         Integer i = new Integer(233);
         Short s = new Short(17);
         Long l = new Long(13245213L);

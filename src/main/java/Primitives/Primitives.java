@@ -1,5 +1,7 @@
+package Primitives;
+
 public class Primitives {
-  public static void main (String[] args) {
+  protected static void main (String[] args) {
     // Целочисленные типы
     byte TestByte = -128;
     short TestShort =-32768;
